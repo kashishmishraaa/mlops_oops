@@ -9,6 +9,9 @@
      > debugging
      > easy to colab
 5. end to en project(chatbook class)
+     > function vs method
+     > magic method or dunder method
+     > self
      > encapsulation
      > getter and setter
      > static method
